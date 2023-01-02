@@ -7,6 +7,14 @@ let length = numeritos.length
     }
 
     console.log("El numero mas pijudo es " + maxNumerito)
+
+    platzi = 'Nunca pares de aprender 💚'
+
+inicial = 15
+final = 25
+
+palabra = platzi[inicial:final]
+print(palabra)
     
 
 
